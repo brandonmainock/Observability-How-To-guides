@@ -1,6 +1,6 @@
 ---
 title: Code
-parent: UI Components
+parent: UI Components - default
 nav_order: 6
 ---
 

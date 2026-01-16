@@ -1,5 +1,5 @@
 ---
-title: Customization
+title: Customization - default
 nav_order: 6
 ---
 

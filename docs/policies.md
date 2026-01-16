@@ -18,4 +18,4 @@ Code block
 
 interface_gif: "/assets/images/basic_making_interface.gif"
 
-![DMF Fabric Topology](assets/images/basic_making_interface.gif)
+![Interface creation](/Observability-How-To-guides/assets/images/basic_making_interface.gif)

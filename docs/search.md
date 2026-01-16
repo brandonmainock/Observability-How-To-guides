@@ -1,5 +1,5 @@
 ---
-title: Search
+title: Search - default
 nav_order: 7
 ---
 

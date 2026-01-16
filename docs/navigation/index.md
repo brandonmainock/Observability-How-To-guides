@@ -1,5 +1,5 @@
 ---
-title: Navigation
+title: Navigation - default
 nav_order: 5
 ---
 

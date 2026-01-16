@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: Configuration - default
 nav_order: 2
 ---
 
